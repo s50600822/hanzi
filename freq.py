@@ -1,7 +1,7 @@
 import os
 from collections import Counter
 
-ignored = {'(',')','<','>','[',']','{','}',':','.','。',',','!','?','+','-','*','/'}
+ignored = {'(',')','<','>','＜','＞','[',']','{','}',':','.','。',',','!','?','+','-','*','/'}
 in_file_ext = ".md" # better browsing on github
 
 def process_text_file(file_path):
@@ -30,9 +30,16 @@ def print_character_frequencies(text):
 
 def generate_md(character_frequencies):
     table = "| Character | Frequency |\n|-----------|-----------|\n"
+    total_count = 0
+
     for char, freq in character_frequencies:
         if char not in ignored:
             table += f"| {char} | {freq} |\n"
+            total_count += 1
+
+    # Add total row at the top
+    table = f" {total_count}: characters \n" + table
+
     with open("Readme.md", 'w', encoding='utf-8') as readme_file:
         readme_file.write(table)
 
