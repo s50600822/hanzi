@@ -2,6 +2,7 @@ import os
 from collections import Counter
 
 ignored = {'(',')','<','>','[',']','{','}',':','.','。',',','!','?','+','-','*','/'}
+in_file_ext = ".md" # better browsing on github
 
 def process_text_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -11,7 +12,7 @@ def process_text_file(file_path):
 def process_directory(directory_path):
     all_text = ""
     for file_name in os.listdir(directory_path):
-        if file_name.endswith(".txt"):
+        if file_name.endswith(in_file_ext):
             file_path = os.path.join(directory_path, file_name)
             all_text += process_text_file(file_path)
     return all_text
@@ -36,7 +37,7 @@ def generate_md(character_frequencies):
         readme_file.write(table)
 
 # Specify the directory containing text files
-directory_path = './txt'
+directory_path = './lyrics'
 
 all_text = process_directory(directory_path)
 
