@@ -29,13 +29,13 @@ def print_character_frequencies(text):
             print(f"{char}: {freq}")
 
 def generate_md(character_frequencies):
-    table = "| Character | Frequency |\n|-----------|-----------|\n"
+    table = "| Rank | Character | Frequency |\n|-----------|-----------|-----------|\n"
     total_count = 0
 
     for char, freq in character_frequencies:
         if char not in ignored:
-            table += f"| {char} | {freq} |\n"
             total_count += 1
+            table += f"| {total_count} | {char} | {freq} |\n"
 
     # Add total row at the top
     table = f" {total_count}: characters \n" + table
