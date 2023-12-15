@@ -18,12 +18,20 @@ def process_text_file(file_path):
         text = file.read().replace('\n', '')
     return text
 
+
+
 def process_directory(directory_path):
     all_text = ""
     for file_name in os.listdir(directory_path):
         if file_name.endswith(in_file_ext):
             file_path = os.path.join(directory_path, file_name)
             all_text += process_text_file(file_path)
+    return all_text
+
+def process_directories(directory_paths):
+    all_text = ""
+    for dir_path in directory_paths:
+        all_text += process_directory(dir_path)
     return all_text
 
 def print_character_frequencies(text):
@@ -52,9 +60,8 @@ def generate_md(character_frequencies):
     with open("Readme.md", 'w', encoding='utf-8') as readme_file:
         readme_file.write(table)
 
-# Specify the directory containing text files
-directory_path = './lyrics'
 
-all_text = process_directory(directory_path)
+
+all_text = process_directories({'./lyrics','./poems'})
 
 print_character_frequencies(all_text)
