@@ -47,7 +47,7 @@ func processDirectory(directoryPath string) (string, error) {
 		if err != nil {
 			return err
 		}
-		if !info.IsDir() && strings.HasSuffix(info.Name(), ".txt") {
+		if !info.IsDir() && strings.HasSuffix(info.Name(), ".md") {
 			fileText, err := processTextFile(path)
 			if err != nil {
 				return err
@@ -90,8 +90,19 @@ func printCharacterFrequencies(text string) {
 }
 
 func main() {
-	// Specify the directory containing text files
-	directoryPath := "./txt"
+	for _, char := range []rune{'\u007e', '～', '<', '>', '＜', '＞', '[', ']', '{', '}', ':', '：', '.', '。', ',', '，', '!', '?', '+', '-', '*', '/'} {
+		ignored[char] = struct{}{}
+	}
+
+	for _, char := range "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" {
+		ignored[char] = struct{}{}
+	}
+
+	for _, char := range []rune{'啊'} {
+		ignored[char] = struct{}{}
+	}
+
+	directoryPath := "./lyrics"
 
 	allText, err := processDirectory(directoryPath)
 	if err != nil {
