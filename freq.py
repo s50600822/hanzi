@@ -1,7 +1,11 @@
 import os
 from collections import Counter
+import string
 
 ignored = {'～','(',')','<','>','＜','＞','[',']','{','}',':','：','.','。',',','，','!','?','+','-','*','/'}
+
+ignored = ignored.union(string.ascii_uppercase)
+ignored = ignored.union(string.ascii_lowercase)
 
 #case like 啊啊啊啊啊啊... ~ aaaaaaaa...
 noise = {'啊'}
