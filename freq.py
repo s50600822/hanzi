@@ -2,7 +2,7 @@ import os
 from collections import Counter
 import string
 
-ignored = {'～','(',')','<','>','＜','＞','[',']','{','}',':','：','.','。',',','，','!','?','+','-','*','/'}
+ignored = {'\u007e','～','(',')','<','>','＜','＞','[',']','{','}',':','：','.','。',',','，','!','?','+','-','*','/'}
 
 ignored = ignored.union(string.ascii_uppercase)
 ignored = ignored.union(string.ascii_lowercase)
