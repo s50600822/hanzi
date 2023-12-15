@@ -22,15 +22,15 @@ jobs:
         run: |
           python3 freq.py
 
-          - name: save
-          run: |
-            changes="${{ steps.git-check.outputs.changes }}"
-            if [ -n "$changes" ]; then
-              git config --global user.email "s50600822@gmail.com"
-              git config --global user.name "s50600822"
-              git add .
-              git commit -m "save"
-              git push
-            else
-              echo "No changes to commit."
-            fi
+      - name: save
+        run: |
+          changes="${{ steps.git-check.outputs.changes }}"
+          if [ -n "$changes" ]; then
+            git config --global user.email "s50600822@gmail.com"
+            git config --global user.name "s50600822"
+            git add .
+            git commit -m "save"
+            git push
+          else
+            echo "No changes to commit."
+          fi
