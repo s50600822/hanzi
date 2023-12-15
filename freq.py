@@ -1,7 +1,12 @@
 import os
 from collections import Counter
 
-ignored = {'(',')','<','>','＜','＞','[',']','{','}',':','.','。',',','!','?','+','-','*','/'}
+ignored = {'(',')','<','>','＜','＞','[',']','{','}',':','：','.','。',',','，','!','?','+','-','*','/'}
+
+#case like 啊啊啊啊啊啊... ~ aaaaaaaa...
+noise = {'啊'}
+ignored = ignored.union(noise)
+
 in_file_ext = ".md" # better browsing on github
 
 def process_text_file(file_path):
