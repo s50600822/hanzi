@@ -21,6 +21,27 @@
 | 君子动口不动手         | jūn zǐ dòng kǒu bù dòng shǒu             | quân tử động khẩu bất động thủ             |
 | 四大皆空               | sì dà jiē kōng                           | tứ đại giai không                          |
 | 天外有天               | tiān wài yǒu tiān                        | thiên ngoại hữu thiên                      |
+| 不共戴天               | bù gòng dài tiān                        | không đội trời chung(bất cộng đái thiên)                      |
+| 天长地久               | tiān cháng dì jiǔ                        | thiên trường địa cửu                      |
+| 百年好合               | bǎi nián hǎo hé                         | bách niên hảo hợp                     |
+| 百年树人               | bǎi nián shù rén                        | trăm năm trồng người                      |
+| 人定胜天               | rén dìng shèng tiān                     | nhân định thắng thiên                      |
+| 三十六计，走为上策       | sān shí liù jì , zǒu wéi shàng cè       | tam thập lục kế, tẩu vi thượng sách                      |
+| 人不为己，天诛地灭       | rén bù wèi jǐ , tiān zhū dì miè         | nhân bất vi kỉ, thiên tru địa diệt |
+| 一手遮天       | yī shǒu zhē tiān         | một tay che trời - nhất thủ già thiên |
+| 一朝天子一朝臣       | yī zhāo tiān zǐ yī zhāo chén         | nhất triều thiên tử nhất triều thần |
+| 一步登天        | yī bù dēng tiān         | một bước lên trời - nhất bộ đăng thiên |
+| 一统天下       | yī tǒng tiānxià         | nhất thống thiên hạ |
+| 不知天高地厚       | Bù zhī tiān gāo dì hòu  | không biết trời cao đất dày - bất tri thiên cao địa hậu |
+| 伤天害理        | shāng tiān hài lǐ  | thương thiên hại lí |
+| 吉人天相        | jí rén tiān xiàng  | cát nhân thiên tướng |
+| 无法无天       | wú fǎ wú tiān  | vô pháp vô thiên |
+| 天下太平        | tiān xià tài píng  | thiên hạ thái bình |
+| 天下无双       | tiān xià wú shuāng  | thiên hạ vô song |
+| 天怒人怨       | tiān nù rén yuàn  | thiên nộ nhân oán |
+| 天机不可泄露        | tiān jī bù kě xiè lù  | thiên cơ bất khả tiết lộ |
+| 天涯海角       | tiān yá hǎi jiǎo  | chân trời góc bể - thiên nhai hải giác |
+| 真命天子       | zhēn mìng tiān zǐ  | chân mệnh thiên tử |
 | 失败是成功之母         | shī bài shì chéng gōng zhī mǔ            | thất bại thị thành công chi mẫu            |
 | 好汉不提当年勇         | hǎo hàn bù tí dāng nián yǒng             | hảo hán bất đề đương niên dũng             |
 | 家和万事兴             | jiā hé wàn shì xīng                      | gia hoà vạn sự hưng                        |
