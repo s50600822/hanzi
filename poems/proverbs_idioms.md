@@ -20,7 +20,6 @@
 | 不知天高地厚             | Bù zhī tiān gāo dì hòu                     | không biết trời cao đất dày - bất tri thiên cao địa hậu |
 | 人不为己，天诛地灭       | rén bù wèi jǐ , tiān zhū dì miè            | nhân bất vi kỉ, thiên tru địa diệt                      |
 | 人定胜天                 | rén dìng shèng tiān                        | nhân định thắng thiên                                   |
-| 人定胜天                 | rén dìng shèng tiān                        | nhân định thắng thiên                                   |
 | 人怕出名猪怕壮           | rén pà chū míng zhū pà zhuàng              | người sợ nổi tiếng heo sợ mập                           |
 | 人无远虑，必有近忧       | rén wú yuǎn lǜ , bì yǒu jìn yōu            | nhân vô viễn lự, tất hữu cận ưu                         |
 | 伤天害理                 | shāng tiān hài lǐ                          | thương thiên hại lí                                     |
