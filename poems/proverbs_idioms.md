@@ -24,7 +24,7 @@
 | 失败是成功之母         | shī bài shì chéng gōng zhī mǔ            | thất bại thị thành công chi mẫu            |
 | 好汉不提当年勇         | hǎo hàn bù tí dāng nián yǒng             | hảo hán bất đề đương niên dũng             |
 | 家和万事兴             | jiā hé wàn shì xīng                      | gia hoà vạn sự hưng                        |
-| 己所不欲，勿施于人     | jǐ suǒ bù yù , wù shī yú rén             | kỉ sở bất dục, vật thi ư nhân              |
+| 己所不欲，勿施于人     | jǐ suǒ bù yù , wù shī yú rén             | kỉ sở bất dục, vật thi vu nhân              |
 | 很小非君子 无毒不丈夫  | Hěn xiǎo fēi jūn zǐ wú dú bù zhàng fū    | hận tiểu phi quân tử vô độc bất trượng phu |
 | 愚公移山               | yú gōng yí shān                          | ngu công dời núi                           |
 | 放下屠刀，立地成佛     | fàng xià tú dāo , lì dì chéng fó         | phóng hạ đồ đao, lập địa thành phật        |
