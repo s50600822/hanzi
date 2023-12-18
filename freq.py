@@ -14,6 +14,32 @@ ignored = ignored.union(bs)
 noise = {'啊'}
 ignored = ignored.union(noise)
 
+vietnamese_characters = {
+    'à', 'á', 'ả', 'ã', 'ạ',
+    'ă', 'ằ', 'ắ', 'ẳ', 'ẵ', 'ặ',
+    'â', 'ầ', 'ấ', 'ẩ', 'ẫ', 'ậ',
+    'è', 'é', 'ẻ', 'ẽ', 'ẹ',
+    'ê', 'ề', 'ế', 'ể', 'ễ', 'ệ',
+    'ì', 'í', 'ỉ', 'ĩ', 'ị',
+    'ò', 'ó', 'ỏ', 'õ', 'ọ',
+    'ô', 'ồ', 'ố', 'ổ', 'ỗ', 'ộ',
+    'ơ', 'ờ', 'ớ', 'ở', 'ỡ', 'ợ',
+    'ù', 'ú', 'ủ', 'ũ', 'ụ',
+    'ư', 'ừ', 'ứ', 'ử', 'ữ', 'ự',
+    'ỳ', 'ý', 'ỷ', 'ỹ', 'ỵ',
+}
+ignored = ignored.union(vietnamese_characters)
+
+pinyin_characters = {
+    'ā', 'á', 'ǎ', 'à', 'a',
+    'ē', 'é', 'ě', 'è', 'e',
+    'ī', 'í', 'ǐ', 'ì', 'i',
+    'ō', 'ó', 'ǒ', 'ò', 'o',
+    'ū', 'ú', 'ǔ', 'ù', 'u',
+    'ǖ', 'ǘ', 'ǚ', 'ǜ', 'ü',
+}
+ignored = ignored.union(pinyin_characters)
+
 in_file_ext = ".md" # better browsing on github
 
 def process_text_file(file_path):
