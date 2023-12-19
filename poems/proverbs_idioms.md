@@ -23,7 +23,7 @@
 | 万里江山                   | wàn lǐ jiāng shān                            | vạn lý gian sơn                                           |
 | 三十六计，走为上策         | sān shí liù jì , zǒu wéi shàng cè            | tam thập lục kế, tẩu vi thượng sách                       |
 | 三十而立                   | sān shí ér lì                                | tam thập nhi lập                                          |
-| 不共戴天                   | bù gòng dài tiān                             | không đội trời chung(bất cộng đái thiên)                  |
+| 不共戴天                   | bù gòng dài tiān                             | không đội trời chung - bất cộng đái thiên                |
 | 不成功便成仁               | bù chéng gōng biàn chéng rén                 | không thành công tiện thành nhân                          |
 | 不知天高地厚               | bù zhī tiān gāo dì hòu                       | không biết trời cao đất dày - bất tri thiên cao địa hậu   |
 | 不知轻重                   | bù zhī qīng zhòng                            | bất tri khinh trọng                                       |
