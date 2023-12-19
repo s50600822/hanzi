@@ -25,7 +25,7 @@
 | 三十而立                   | sān shí ér lì                                | tam thập nhi lập                                          |
 | 不共戴天                   | bù gòng dài tiān                             | không đội trời chung(bất cộng đái thiên)                  |
 | 不成功便成仁               | bù chéng gōng biàn chéng rén                 | không thành công tiện thành nhân                          |
-| 不知天高地厚               | Bù zhī tiān gāo dì hòu                       | không biết trời cao đất dày - bất tri thiên cao địa hậu   |
+| 不知天高地厚               | bù zhī tiān gāo dì hòu                       | không biết trời cao đất dày - bất tri thiên cao địa hậu   |
 | 不知轻重                   | bù zhī qīng zhòng                            | bất tri khinh trọng                                       |
 | 不知进退                   | bù zhī jìn tuì                               | bất tri tiến thoái                                        |
 | 东山再起                   | dōng shān zài qǐ                             | đông sơn tái khởi                                         |
@@ -93,6 +93,6 @@
 | 英雄末路                   | yīng xióng mò lù                             | anh hùng mạc lộ                                           |
 | 英雄难过美人关             | yīng xióng nán guò měi rén guān              | anh hùng nan quá mĩ nhân quan                             |
 | 过五关斩六将               | guò wǔ guān zhǎn liù jiàng                   | quá ngũ quan trảm lục tướng                               |
-| 道高一尺，魔高一丈         | dào gāo yī chǐ , mó gāo yī zhàng             | đạp cao nhất xích, ma cao nhất trượng                     |
+| 道高一尺，魔高一丈         | dào gāo yī chǐ , mó gāo yī zhàng             | đạo cao nhất xích, ma cao nhất trượng                     |
 | 酒逢知己千杯少             | jiǔ féng zhījǐ qiān bēi shào                 | tửu phùng tri kỉ thiên bôi thiểu                          |
 | 骄兵必败                   | jiāo bīng bì bài                             | kiêu binh tất bại                                         |
