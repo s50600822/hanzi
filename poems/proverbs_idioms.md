@@ -217,5 +217,5 @@
 | 鸿门宴                             | Hóng mén yàn                                         | hồng môn yến                                                                           |
 | 黄粱梦                             | huáng liáng mèng                                     | hoàn lương mộng                                                                        |
 | 龙争虎斗                           | lóng zhēng hǔ dòu                                    | long tranh hổ đấu                                                                      |
-| 龙凤呈祥                           | lóng fèng chéng xiáng                                | thần cơ diệu toán                                                                      |
+| 龙凤呈祥                           | lóng fèng chéng xiáng                                | long phụng trình tường                                                                 |
 | 龙潭虎穴                           | lóng tán hǔ xué                                      | long đàm hổ huyệt                                                                      |
