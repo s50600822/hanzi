@@ -171,7 +171,7 @@
 | 摩喉罗伽                             | mó hóu luó jiā                                         | Ma Hầu La Gia - Mahoraga                                                                 |
 | 放下屠刀，立地成佛                   | fàng xià tú dāo , lì dì chéng fó                       | phóng hạ đồ đao, lập địa thành phật                                                      |
 | 放长线钓大鱼                         | fàng cháng xiàn diào dà yú                             | phóng trường tuyến đếu đại ngư -> thả dây dài câu cá lớn                                 |
-| 救人一命胜造七级浮屠                 | jiù rén yī mìng shèng zào qī jí fú tú                  | ...                                                                                      |
+| 救人一命胜造七级浮屠                 | jiù rén yī mìng shèng zào qī jí fú tú                  | cứu nhân nhất mệnh thắng tạo thất cấp phù đồ                                              |
 | 旁门左道                             | páng mén zuǒ dào                                       | bàng môn tả đạo                                                                          |
 | 无功不受禄                           | wú gōng bù shòu lù                                     | vô công bất thụ lộc                                                                      |
 | 无法无天                             | wú fǎ wú tiān                                          | vô pháp vô thiên                                                                         |
@@ -254,9 +254,9 @@
 | 返老还童                             | fǎn lǎo huán tóng                                      | phản lão hoàn đồng                                                                       |
 | 进退两难                             | jìn tuì liǎng nán                                      | tiến thối lưỡng nan                                                                      |
 | 远走高飞                             | yuǎn zǒu gāo fēi                                       | viễn tẩu cao phi                                                                         |
-| 通天彻地                             | tōng tiān chè dì                                       | thộng thiên triệt địa                                                                    |
+| 通天彻地                             | tōng tiān chè dì                                       | thông thiên triệt địa                                                                    |
 | 速战速决                             | sù zhàn sù jué                                         | tốc chiến tốc quyết                                                                      |
-| 道不同不相为谋                       | dào bù tóng bù xiāng wéi móu                           | ...                                                                                      |
+| 道不同不相为谋                       | dào bù tóng bù xiāng wéi móu                           | đạo bất đồng bất tương vi mưu                                                             |
 | 道高一尺，魔高一丈                   | dào gāo yī chǐ , mó gāo yī zhàng                       | đạo cao nhất xích, ma cao nhất trượng                                                    |
 | 酒逢知己千杯少                       | jiǔ féng zhījǐ qiān bēi shào                           | tửu phùng tri kỉ thiên bôi thiểu                                                         |
 | 重色轻友                             | zhòng sè qīng yǒu                                      | trọng sắc khinh hữu -> trọng sắc khinh bạn                                               |
