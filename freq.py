@@ -7,7 +7,7 @@ ignored = {'\u0060','`','\u007e','～','!','@','\u0023','#','$','%','^','&','*',
 ignored = ignored.union(string.ascii_uppercase)
 ignored = ignored.union(string.ascii_lowercase)
 
-bs = {'！','','|'}
+bs = {'！','','|',"'"}
 ignored = ignored.union(bs)
 
 #case like 啊啊啊啊啊啊... ~ aaaaaaaa...
@@ -17,7 +17,7 @@ ignored = ignored.union(noise)
 vietnamese_characters = {
     'à', 'á', 'ả', 'ã', 'ạ',
     'ă', 'ằ', 'ắ', 'ẳ', 'ẵ', 'ặ',
-    'â', 'ầ', 'ấ', 'ẩ', 'ẫ', 'ậ','đ'
+    'â', 'ầ', 'ấ', 'ẩ', 'ẫ', 'ậ','đ','đ'
     'è', 'é', 'ẻ', 'ẽ', 'ẹ',
     'ê', 'ề', 'ế', 'ể', 'ễ', 'ệ',
     'ì', 'í', 'ỉ', 'ĩ', 'ị',
@@ -39,6 +39,7 @@ pinyin_characters = {
     'ǖ', 'ǘ', 'ǚ', 'ǜ', 'ü',
 }
 ignored = ignored.union(pinyin_characters)
+ignored = ignored.union({'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'})
 
 in_file_ext = ".md" # better browsing on github
 
@@ -80,6 +81,8 @@ def generate_md(character_frequencies):
 
     for char, freq in character_frequencies:
         if char not in ignored:
+            if char =='đ':
+                print('FUCKING SHITTT')
             total_count += 1
             table += f"| {total_count} | {char} | {freq} |\n"
 
