@@ -78,7 +78,7 @@
 | 力不从心                             | lì bù cóng xīn                                         | lực bất tòng tâm                                                                         |
 | 十年树木，百年树人                   | shí nián shù mù , bǎi nián shù rén                     | thập niên thụ mục, bách niên thụ nhân -> mười năm trồng cây, trăm năm trồng người        |
 | 千军万马                             | qiān jūn wàn mǎ                                        | thiên quân vạn mã                                                                        |
-| 千军易得，一将难求                   | qiān jūn yì dé , yī jiàng nán qiú                      | vạn quân dễ đắc, nhất tướng nan cầu                                                      |
+| 千军易得，一将难求                   | qiān jūn yì dé , yī jiàng nán qiú                      | thiên quân dễ đắc, nhất tướng nan cầu                                                      |
 | 千言万语                             | qiān yán wàn yǔ                                        | thiên ngôn vạn ngữ                                                                       |
 | 千里马                               | qiān lǐ mǎ                                             | thiên lí mã                                                                              |
 | 博大精深                             | bó dà jīng shēn                                        | bác đại tinh thâm                                                                        |
