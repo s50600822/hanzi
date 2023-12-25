@@ -168,7 +168,7 @@
 | 招兵买马                             | zhāo bīng mǎi mǎ                                       | chiêu binh mãi mã                                                                        |
 | 挂羊头，卖狗肉                       | guà yáng tóu , mài gǒu ròu                             | quải dương đầu, mại cẩu nhục -> treo đầu dê, bán thịt chó                                 |
 | 指鸡骂狗                             | zhǐ jī mà gǒu                                          | chỉ kê mạ cẩu -> chỉ gà mắng chó                                                          |
-| 摩喉罗伽                             | mó hóu luó jiā                                         | Ma Hầu La Gia - Mahoraga                                                                 |
+| 摩喉罗伽                             | mó hóu luó jiā                                         | Ma Hầu La Gia -> Mahoraga                                                                 |
 | 放下屠刀，立地成佛                   | fàng xià tú dāo , lì dì chéng fó                       | phóng hạ đồ đao, lập địa thành phật                                                      |
 | 放长线钓大鱼                         | fàng cháng xiàn diào dà yú                             | phóng trường tuyến đếu đại ngư -> thả dây dài câu cá lớn                                 |
 | 救人一命胜造七级浮屠                 | jiù rén yī mìng shèng zào qī jí fú tú                  | cứu nhân nhất mệnh thắng tạo thất cấp phù đồ                                               |
@@ -183,7 +183,7 @@
 | 有勇无谋                             | yǒu yǒng wú móu                                        | hữu dũng vô mưu                                                                          |
 | 有去无回                             | yǒu qù wú huí                                          | hữu khứ vô hồi -> có đi không về                                                         |
 | 有钱有势                             | yǒu qián yǒu shì                                       | có tiền có thế                                                                           |
-| 杀人放火                             | shā rén fàng huǒ                                       | sát nhân phóng hoả - giết người phóng hoả                                                |
+| 杀人放火                             | shā rén fàng huǒ                                       | sát nhân phóng hoả -> giết người phóng hoả                                                |
 | 杀鸡何必要用牛刀呢                   | shā jī hé bì yào yòng niú dāo ne                       | sát kê hà tất yếu dụng ngưu đao nè nè -> giết gà không cần dùng dao mổ trâu              |
 | 杀鸡警猴                             | shā jī jǐng hóu                                        | sát kê cảnh hầu -> giết gà doạ khỉ                                                        |
 | 极乐世界                             | jí lè shì jiè                                          | thế giới cực lạc                                                                         |
@@ -235,16 +235,16 @@
 | 英雄难过美人关                       | yīng xióng nán guò měi rén guān                        | anh hùng nan quá mĩ nhân quan                                                            |
 | 见色忘友                             | jiàn sè wàng yǒu                                       | kiến sắc vong hữu -> thấy sắc quên bạn                                                   |
 | 誓不两立                             | shì bù liǎng lì                                        | thệ bất lưỡng lập                                                                        |
-| 誓死不从                             | cāng hǎi sāng tián                                     | thệ tử bất tòng - thà chết không theo                                                    |
-| 誓死不降                             | shì sǐ bù xiáng                                        | thệ tử bất hàng - thà chết không hàng                                                    |
-| 说曹操曹操就到                       | shuō Cáo Cāo Cáo Cāo jiù dào                           | nhắc Tào Tháo Tào Tháo tới - thuyết Tào Tháo Tào Tháo tựu đáo                            |
+| 誓死不从                             | cāng hǎi sāng tián                                     | thệ tử bất tòng -> thà chết không theo                                                    |
+| 誓死不降                             | shì sǐ bù xiáng                                        | thệ tử bất hàng -> thà chết không hàng                                                    |
+| 说曹操曹操就到                       | shuō Cáo Cāo Cáo Cāo jiù dào                           | nhắc Tào Tháo Tào Tháo tới -> thuyết Tào Tháo Tào Tháo tựu đáo                            |
 | 谋事在人，成事在天                   | móu shì zài rén , chéng shì zài tiān                   | mưu sự tại nhân, thành sự tại thiên                                                      |
 | 豪情壮志                             | háo qíng zhuàng zhì                                    | hào tình tráng chí                                                                       |
 | 豺狼虎豹                             | chái láng hǔ bào                                       | sài lang hổ báo                                                                          |
 | 贪婪是万恶之源                       | tān lán shì wàn è zhī yuán                             | tham lam thị vạn ác chi nguyên                                                           |
 | 贪官污吏                             | tān guān wū lì                                         | tham quan ô lại                                                                          |
 | 贪生怕死                             | tān shēng pà sǐ                                        | tham sinh phạ tử -> tham sống sợ chết                                                    |
-| 走马观花                             | zǒu mǎ guān huā                                        | tẩu mã quan hoa - cưỡi ngựa xem hoa                                                      |
+| 走马观花                             | zǒu mǎ guān huā                                        | tẩu mã quan hoa -> cưỡi ngựa xem hoa                                                      |
 | 起死回生                             | qǐ sǐ huí shēng                                        | khởi tử hồi sinh                                                                         |
 | 足智多谋                             | zú zhì duō móu                                         | túc trí đa mưu                                                                           |
 | 足智多谋                             | móu chén wǔ jiàng                                      | mưu thần võ tướng                                                                        |
@@ -253,8 +253,8 @@
 | 过五关斩六将                         | guò wǔ guān zhǎn liù jiàng                             | quá ngũ quan trảm lục tướng                                                              |
 | 返老还童                             | fǎn lǎo huán tóng                                      | phản lão hoàn đồng                                                                       |
 | 进退两难                             | jìn tuì liǎng nán                                      | tiến thối lưỡng nan                                                                      |
-| 远走高飞                             | yuǎn zǒu gāo fēi                                       | viễn tẩu cao phi                                                                         |
-| 通天彻地                             | tōng tiān chè dì                                       | thộng thiên triệt địa                                                                    |
+| 远走高飞                             | yuǎn zǒu gāo fēi                                       | viễn tẩu cao phi -> xa chay cao bay                                                      |
+| 通天彻地                             | tōng tiān chè dì                                       | thông thiên triệt địa                                                                    |
 | 速战速决                             | sù zhàn sù jué                                         | tốc chiến tốc quyết                                                                      |
 | 道不同不相为谋                       | dào bù tóng bù xiāng wéi móu                           | đạo bất đồng bất tương vi mưu                                                           |
 | 道高一尺，魔高一丈                   | dào gāo yī chǐ , mó gāo yī zhàng                       | đạo cao nhất xích, ma cao nhất trượng                                                    |
