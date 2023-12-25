@@ -61,10 +61,10 @@
 | 佛光普照                             | Fó guāng pǔ zhào                                       | phật quang phổ chiếu                                                                     |
 | 佛口蛇心                             | fó kǒu shé xīn                                         | phật khẩu tâm xà                                                                         |
 | 佛法无边                             | Fó fǎ wú biān                                          | phật pháp vô biên                                                                        |
-| 你死我活                             | nǐ sǐ wǒ huó                                           | ta sống ngươi chết - nhĩ tử ngã hoạt                                                     |
+| 你死我活                             | nǐ sǐ wǒ huó                                           | nhĩ tử ngã hoạt -> ta sống ngươi chết                                                     |
 | 侯门似海                             | hóu mén sì hǎi                                         | hầu môn như hải                                                                          |
 | 修成正果                             | xiū chéng zhèng guǒ                                    | tu thành chánh quả                                                                       |
-| 借刀杀人                             | jiè dāo shā rén                                        | tá đao sát nhân - mượn dao giết người                                                    |
+| 借刀杀人                             | jiè dāo shā rén                                        | tá đao sát nhân -> mượn dao giết người                                                    |
 | 借花献佛                             | jiè huā xiàn Fó                                        | tá hoa hi6e1n phật phật -> mượn hoa kính phật                                            |
 | 先下手为强                           | xiān xià shǒu wéi qiáng                                | tiên hạ thủ vi cường                                                                     |
 | 先发制人                             | xiān fā zhì rén                                        | tiên phát chế nhân                                                                       |
@@ -127,7 +127,7 @@
 | 如虎添翼                             | rú hǔ tiān yì                                          | như hổ thiêm dực -> như hổ thêm cánh                                                     |
 | 妙手回春                             | miào shǒu huí chūn                                     | diệu thủ hồi xuân                                                                        |
 | 妻离子散                             | qī lí zǐ sàn                                           | thê li tử tán                                                                            |
-| 嫁鸡随鸡，嫁狗随狗                   | jià jī suí jī , jià gǒu suí gǒu                        | giá kê tuỳ kê, giá cẩu tuỳ cẩu - lấy gà theo gà, lấy chó theo chó                        |
+| 嫁鸡随鸡，嫁狗随狗                   | jià jī suí jī , jià gǒu suí gǒu                        | giá kê tuỳ kê, giá cẩu tuỳ cẩu -> lấy gà theo gà, lấy chó theo chó                        |
 | 孤魂野鬼                             | gū hún yě guǐ                                          | cô hồn dã quỉ                                                                            |
 | 守株待兔                             | shǒu zhū dài tù                                        | thủ chu đãi thố -> ôm cây đợi thỏ                                                        |
 | 家和万事兴                           | jiā hé wàn shì xīng                                    | gia hoà vạn sự hưng                                                                      |
@@ -166,12 +166,12 @@
 | 打草惊蛇                             | dǎ cǎo jīng shé                                        | đả thảo kinh xà                                                                          |
 | 扬名四海                             | yáng míng sì hǎi                                       | dương danh tứ hải                                                                        |
 | 招兵买马                             | zhāo bīng mǎi mǎ                                       | chiêu binh mãi mã                                                                        |
-| 挂羊头，卖狗肉                       | guà yáng tóu , mài gǒu ròu                             | quải dương đầu, mại cẩu nhục - treo đầu dê, bán thịt chó                                 |
-| 指鸡骂狗                             | zhǐ jī mà gǒu                                          | chỉ kê mạ cẩu - chỉ gà mắng chó                                                          |
+| 挂羊头，卖狗肉                       | guà yáng tóu , mài gǒu ròu                             | quải dương đầu, mại cẩu nhục -> treo đầu dê, bán thịt chó                                 |
+| 指鸡骂狗                             | zhǐ jī mà gǒu                                          | chỉ kê mạ cẩu -> chỉ gà mắng chó                                                          |
 | 摩喉罗伽                             | mó hóu luó jiā                                         | Ma Hầu La Gia - Mahoraga                                                                 |
 | 放下屠刀，立地成佛                   | fàng xià tú dāo , lì dì chéng fó                       | phóng hạ đồ đao, lập địa thành phật                                                      |
 | 放长线钓大鱼                         | fàng cháng xiàn diào dà yú                             | phóng trường tuyến đếu đại ngư -> thả dây dài câu cá lớn                                 |
-| 救人一命胜造七级浮屠                 | jiù rén yī mìng shèng zào qī jí fú tú                  | cứu nhân nhất mệnh thắng tạo thất cấp phù đồ                                              |
+| 救人一命胜造七级浮屠                 | jiù rén yī mìng shèng zào qī jí fú tú                  | ...                                                                                      |
 | 旁门左道                             | páng mén zuǒ dào                                       | bàng môn tả đạo                                                                          |
 | 无功不受禄                           | wú gōng bù shòu lù                                     | vô công bất thụ lộc                                                                      |
 | 无法无天                             | wú fǎ wú tiān                                          | vô pháp vô thiên                                                                         |
@@ -185,7 +185,7 @@
 | 有钱有势                             | yǒu qián yǒu shì                                       | có tiền có thế                                                                           |
 | 杀人放火                             | shā rén fàng huǒ                                       | sát nhân phóng hoả - giết người phóng hoả                                                |
 | 杀鸡何必要用牛刀呢                   | shā jī hé bì yào yòng niú dāo ne                       | sát kê hà tất yếu dụng ngưu đao nè nè -> giết gà không cần dùng dao mổ trâu              |
-| 杀鸡警猴                             | shā jī jǐng hóu                                        | sát kê cảnh hầu - giết gà doạ khỉ                                                        |
+| 杀鸡警猴                             | shā jī jǐng hóu                                        | sát kê cảnh hầu -> giết gà doạ khỉ                                                        |
 | 极乐世界                             | jí lè shì jiè                                          | thế giới cực lạc                                                                         |
 | 树欲静而风不止                       | shù yù jìng ér fēng bù zhǐ                             | thụ dục tĩnh nhi phong bất chỉ -> cây muốn lặng mà gió chẳng ngừng                       |
 | 欲速则不达                           | yù sù zé bù dá                                         | dục tốc tắc bất đạt                                                                      |
@@ -202,13 +202,13 @@
 | 浮华是非                             | fú huá shì fēi                                         | phù hoa thị phi                                                                          |
 | 深仇大恨                             | shēn chóu dà hèn                                       | thâm thù đại hận                                                                         |
 | 深谋远略                             | shēn móu yuǎn lüè                                      | thâm mưu viễn lược                                                                       |
-| 牛头马面                             | niú tóu	mǎ miàn                                                        | ngưu đầu mã diện                                                                         |
+| 牛头马面                             | niú tóu	mǎ miàn                                        | ngưu đầu mã diện                                                                         |
 | 狐朋狗友                             | hú péng gǒu yǒu                                        | hồ bằng cẩu hữu                                                                          |
 | 狗杂种                               | gǒu zá zhǒng                                           | cẩu tạp chủng                                                                            |
 | 狗男女                               | gǒu nán nǚ                                             | cẩu nam nữ                                                                               |
 | 狗贼                                 | gǒu zéi                                                | cẩu tặc                                                                                  |
 | 独孤求败                             | Dú gū qiú bài                                          | độc cô cầu bại                                                                           |
-| 猪狗不如                             | zhū gǒu bù rú                                          | trư cẩu bất như - không bằng heo chó                                                     |
+| 猪狗不如                             | zhū gǒu bù rú                                          | trư cẩu bất như -> không bằng heo chó                                                     |
 | 甘拜下风                             | gān bài xià fēng                                       | cam bái hạ phong                                                                         |
 | 生生灭灭                             | shēng shēng miè miè                                    | sinh sinh diệt diệt                                                                      |
 | 用武之地                             | yòng wǔ zhī dì                                         | dụng võ chi địa                                                                          |
@@ -254,9 +254,9 @@
 | 返老还童                             | fǎn lǎo huán tóng                                      | phản lão hoàn đồng                                                                       |
 | 进退两难                             | jìn tuì liǎng nán                                      | tiến thối lưỡng nan                                                                      |
 | 远走高飞                             | yuǎn zǒu gāo fēi                                       | viễn tẩu cao phi                                                                         |
-| 通天彻地                             | tōng tiān chè dì                                       | thông thiên triệt địa                                                                    |
+| 通天彻地                             | tōng tiān chè dì                                       | thộng thiên triệt địa                                                                    |
 | 速战速决                             | sù zhàn sù jué                                         | tốc chiến tốc quyết                                                                      |
-| 道不同不相为谋                       | dào bù tóng bù xiāng wéi móu                           | đạo bất đồng bất tương vi mưu                                                             |
+| 道不同不相为谋                       | dào bù tóng bù xiāng wéi móu                           | ...                                                                                      |
 | 道高一尺，魔高一丈                   | dào gāo yī chǐ , mó gāo yī zhàng                       | đạo cao nhất xích, ma cao nhất trượng                                                    |
 | 酒逢知己千杯少                       | jiǔ féng zhījǐ qiān bēi shào                           | tửu phùng tri kỉ thiên bôi thiểu                                                         |
 | 重色轻友                             | zhòng sè qīng yǒu                                      | trọng sắc khinh hữu -> trọng sắc khinh bạn                                               |
