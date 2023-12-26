@@ -147,6 +147,7 @@
 | 平时不烧香，临时抱佛脚                 | píng shí bù shāo xiāng , lín shí bào fó jiǎo             | bình thời bất thiếu hương, lâm thời bão phật cước                                          |
 | 引狼入室                               | yǐn láng rù shì                                          | dẫn lang nhập thất -> dẫn sói vào nhà                                                      |
 | 引蛇出洞                               | yǐn shé chū dòng                                         | dẫn xà suất động -> dụ rắn khỏi hang                                                       |
+| 强词夺理                               | qiǎng cí duó lǐ                                          | cưỡng từ đoạt lí                                                                           |
 | 很小非君子 无毒不丈夫                  | Hěn xiǎo fēi jūn zǐ wú dú bù zhàng fū                    | hận tiểu phi quân tử vô độc bất trượng phu                                                 |
 | 心心念念                               | xīn xīn niàn niàn                                        | tâm tâm niệm niệm                                                                          |
 | 心烦意乱                               | xīn fán yì luàn                                          | tâm phiền ý loạn                                                                           |
