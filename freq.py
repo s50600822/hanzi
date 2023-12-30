@@ -81,8 +81,6 @@ def generate_md(character_frequencies):
 
     for char, freq in character_frequencies:
         if char not in ignored:
-            if char =='đ':
-                print('FUCKING SHITTT')
             total_count += 1
             table += f"| {total_count} | {char} | {freq} |\n"
 
