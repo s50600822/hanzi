@@ -242,7 +242,6 @@
 | 独孤求败                                   | Dú gū qiú bài                                                | độc cô cầu bại                                                                                 |
 | 猪狗不如                                   | zhū gǒu bù rú                                                | trư cẩu bất như -> không bằng heo chó                                                          |
 | 甘拜下风                                   | gān bài xià fēng                                             | cam bái hạ phong                                                                               |
-| 甘拜下风                                   | gān bài xià fēng                                             | cam bái hạ phong                                                                               |
 | 生灵涂炭                                   | shēng líng tú tàn                                            | sinh linh đồ thán                                                                              |
 | 生生灭灭                                   | shēng shēng miè miè                                          | sinh sinh diệt diệt                                                                            |
 | 生财有道                                   | shēng cái yǒu dào                                            | sinh tài hữu đạo                                                                               |
@@ -319,3 +318,18 @@
 | 龙争虎斗                                   | lóng zhēng hǔ dòu                                            | long tranh hổ đấu                                                                              |
 | 龙凤呈祥                                   | lóng fèng chéng xiáng                                        | long phụng trình tường                                                                         |
 | 龙潭虎穴                                   | lóng tán hǔ xué                                              | long đàm hổ huyệt                                                                              |
+| 千秋万代                                   |qiān qiū wàn dài| thiên thu vạn đại|
+| 横行霸道                                   |héng xíng bà dào |hoành hành bá đạo|
+| 隔墙有耳                                   | gé qiáng yǒu ěr| cách tường hữu nhĩ -> tai vách mặt rừng                              |
+| 投鼠忌器                                   | tóu shǔ jì qì | đầu thử kị khí -> ném chuột vỡ bình                                                                              |
+| 厚德载物                                   | hòu dé zài wù  | hậu đức trị vật|
+|孔融让梨 |Kǒng Róng ràng lí | Khổng Dung nhượng lê|
+|贼喊捉贼 |zéi hǎn zhuō zéi| tặc hảm tróc tặc -> ăn cắp la làng|
+|嫁祸于人|jià huò yú rén| giá hoạ vu nhân |
+|以德服人|yǐ dé fú rén|dĩ đức phục nhân|
+|功德无量 |gōng dé wú liàng| công đức vô lượng                                                                              |
+| 功德圆满|gōng dé yuán mǎn |công đức vi6n mãn                                                                      |
+|仁义道德 |rén yì dào dé|nhân nghĩa đạo đức|
+|阴德必有阳报 |yīn dé bì yǒu yáng bào| âm đức tất hữu dương báo |
+|以德报怨 |yǐ dé bào yuàn| dĩ đức báo oán |
+|螳臂当车 |táng bì dāng chē|đường tí đương xa -> châu chấu đá xe                                                                              |
