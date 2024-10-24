@@ -227,7 +227,6 @@
 | 沧海桑田                                   | cāng hǎi sāng tián                                           | thương hải tang điền                                                                           |
 | 泄露天机                                   | xiè lù tiān jī                                               | tiết lộ thiên cơ                                                                               |
 | 浪子回头                                   | làng zǐ huí tóu                                              | lãng tử hồi đầu                                                                                |
-| 浪子回头                                   | làng zǐ huí tóu                                              | lãng tử hồi đầu                                                                                |
 | 浮华是非                                   | fú huá shì fēi                                               | phù hoa thị phi                                                                                |
 | 深仇大恨                                   | shēn chóu dà hèn                                             | thâm thù đại hận                                                                               |
 | 深谋远略                                   | shēn móu yuǎn lüè                                            | thâm mưu viễn lược                                                                             |
